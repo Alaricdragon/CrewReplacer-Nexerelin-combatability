@@ -1,0 +1,6 @@
+id,trigger,conditions,script,text,options,notes
+marketHostileRaidSel,DialogOptionSelected,$option == mktRaid,CRNCMarketCMD raidMenu,,,
+marketHostileRaidNonMarket,DialogOptionSelected,$option == mktRaidNonMarket,CRNCMarketCMD raidNonMarket,,,
+marketHostileRaidValuableSel,DialogOptionSelected,$option == mktRaidValuable,CRNCMarketCMD raidValuable,,,
+marketHostileRaidDisruptSel,DialogOptionSelected,$option == mktRaidDisrupt,CRNCMarketCMD raidDisrupt,,,
+marketHostileRaidConfirmSel,DialogOptionSelected,$option == mktRaidConfirm,CRNCMarketCMD raidConfirm,,,

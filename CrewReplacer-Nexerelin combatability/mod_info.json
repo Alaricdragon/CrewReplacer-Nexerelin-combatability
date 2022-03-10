@@ -1,0 +1,16 @@
+{
+	"id":"zzCrewReplacerNexerelinCombatability", # internal id
+	"name":"CrewReplacer Nexerelin combatability", # displayed to the player
+	"author":"Alaricdragon",
+	"version":"1.0",
+	"description":"for use with CrewReplacer and Nexerelin, for full combatability",
+	"gameVersion":"0.95a-RC15",
+    	"dependencies": [
+        	{
+        	    "id": "aaacrew_replacer",
+        	    "name": "crew_replacer",
+        	    #"version": "1"
+        	},
+	],
+	"jars":["jars/CrewReplacer-Nexerelin compatibility.jar"]
+}
